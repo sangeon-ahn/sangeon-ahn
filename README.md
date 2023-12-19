@@ -1,4 +1,14 @@
 ### Hi there 👋
+Hello I am sangeon Ahn! I’m currently studying SpringBoot and fundamental CS like DesignPattern & Network & Operationg System. I want to be backend developer or cloud engineer.
+
+💪Skills
+                  
+
+🌱 Studying
+     
+
+🔨Tools
+   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mouseondesk)](https://solved.ac/mouseondesk/)
 
 ### :mailbox:Contact
