@@ -1,7 +1,7 @@
 ### Hi there 👋
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mouseondesk)](https://solved.ac/mouseondesk/)
 
-### Contact
+###  :mailbox: :mailbox:Contact
 <a href="mailto:stdleaf@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logoGmail&logoColor=white" ></a>
 <!--
 **sangeon-ahn/sangeon-ahn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
