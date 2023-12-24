@@ -1,5 +1,5 @@
 ### Hi there 👋
-Hello I am sangeon Ahn! I’m currently studying SpringBoot and fundamental CS like DesignPattern & Network & Operationg System. I want to be backend developer or cloud engineer.
+Hello I am sangeon Ahn! I’m currently studying SpringBoot and fundamental CS like DesignPattern & Network & Operating System. I want to be backend developer or cloud engineer.
 
 <!--
 💪Skills
