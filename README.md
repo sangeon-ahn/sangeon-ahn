@@ -14,6 +14,7 @@ Hello I'm sangeon Ahn! I’m currently studying SpringBoot and fundamental CS li
 
 ### :mailbox:Contact
 <a href="mailto:stdleaf@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logoGmail&logoColor=white" ></a>
+<a href="https://dev-forward.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-EA4335?style=flat-square&logoGmail&logoColor=white" ></a>
 <!--
 **sangeon-ahn/sangeon-ahn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
