@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm Sangeon Ahn, a database systems engineer focused on building highly scalable and efficient relational database management systems (RDBMS). My core areas include:
 - Distributed transaction processing and concurrency control algorithms
-- Database performance tuning
+- Database systems optimization and internals tuning
 
 I have a deep passion for database internals and systems engineering. My work involves developing core components of RDBMS, leveraging my strong expertise in computer science fundamentals, low-level systems programming, and database internals.
 
