@@ -5,7 +5,6 @@ I'm Sangeon Ahn, a database systems engineer focused on building highly scalable
 
 I have a deep passion for database internals and systems engineering. My work involves developing core components of RDBMS, leveraging my strong expertise in computer science fundamentals, low-level systems programming, and database internals.
 
-I'm also interested in exploring storage engines like LSM trees and WiredTiger, as well as in-memory database technologies.
 <!--
 💪Skills
                   
